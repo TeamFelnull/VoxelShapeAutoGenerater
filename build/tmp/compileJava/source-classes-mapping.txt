@@ -1,5 +1,0 @@
-red/felnull/vsag/Box.java
- red.felnull.vsag.Box
- red.felnull.vsag.Box$RotationAxis
-red/felnull/vsag/Main.java
- red.felnull.vsag.Main
